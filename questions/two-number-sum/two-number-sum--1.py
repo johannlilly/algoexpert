@@ -1,5 +1,5 @@
 # basic solution
-# O(n²)
+# O(n²) time | O(1) space
 def twoNumberSum(array, targetSum):
     # Write your code here.
     results = []
